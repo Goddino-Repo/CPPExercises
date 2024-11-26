@@ -32,3 +32,5 @@
 *.app
 
 *.goddino
+cmake-build-debug
+.idea
