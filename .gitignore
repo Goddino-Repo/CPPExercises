@@ -34,3 +34,4 @@
 *.goddino
 cmake-build-debug
 .idea
+main
