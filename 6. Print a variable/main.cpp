@@ -1,8 +1,13 @@
 #include <iostream>
 using namespace std;
 
+/**
+ * Exercise: Declare an int variable and print it
+ *
+ * @return
+ */
 int main() {
-  const int SIZE = 5;
+  constexpr int SIZE = 5;
 
   cout << SIZE;
 

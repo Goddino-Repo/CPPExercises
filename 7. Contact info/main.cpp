@@ -1,6 +1,11 @@
 #include <iostream>
 using namespace std;
 
+/**
+ * Exercise: Declare 3 variables: name, age and height, then print all.
+ *
+ * @return
+ */
 int main() {
   const string name = "John";
   constexpr int age = 34;
