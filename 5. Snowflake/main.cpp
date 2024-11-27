@@ -1,6 +1,10 @@
 #include <iostream>
 using namespace std;
 
+/**
+ * Exercise: print a snowflake using the constants in the code
+ * @return
+ */
 int main() {
     const string p1 = "  *  ";
     const string p2 = " *** ";
